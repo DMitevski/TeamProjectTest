@@ -1,0 +1,82 @@
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Marina\Desktop\New folder\Version1\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\TEAM PROJECT 1\Ver. 1\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll.config
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\VideoTutorials.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\VideoTutorials.pdb
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\EntityFramework.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Razor.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\WebGrease.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\EntityFramework.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Helpers.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Mvc.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Optimization.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.Razor.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\Newtonsoft.Json.xml
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\bin\Antlr3.Runtime.pdb
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.dll
+C:\Users\Ivana\Desktop\Ver. 1 proba\VideoTutorials\VideoTutorials\obj\Debug\VideoTutorials.pdb
